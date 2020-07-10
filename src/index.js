@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react'
-import './styles.module.css'
 
 const Imagerotator = ({ images }) => {
   useEffect(() => {

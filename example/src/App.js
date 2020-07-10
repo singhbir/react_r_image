@@ -1,5 +1,4 @@
 import React from 'react'
-
 import Imagerotator from 'react_r_image'
 import 'react_r_image/dist/index.css'
 
